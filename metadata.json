@@ -1,0 +1,5 @@
+{
+  "name": "Veo Motion",
+  "description": "Bring your photos to life with Google's Veo generative video model. Upload an image and generate high-quality, seamless looping videos.",
+  "requestFramePermissions": []
+}
